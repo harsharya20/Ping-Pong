@@ -11,8 +11,17 @@
     left: 52%;
     border-radius: 50%;
 }
-
-#rod1 #rod2{
+#rod1{
+    width: 200px;
+    height: 20px;
+    position: fixed;
+    left: 50%;
+    border-radius: 25%;
+    text-align: center;
+    color: gold;
+    font-weight: bolder;
+}
+#rod2{
     width: 200px;
     height: 20px;
     position: fixed;
